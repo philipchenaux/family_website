@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/family_website/static/css/main.93717f1e.css",
+    "main.js": "/family_website/static/js/main.38600197.js",
+    "static/media/home.gif": "/family_website/static/media/home.a76c894c19b4f6cd1689.gif",
+    "static/media/artblakey.jpg": "/family_website/static/media/artblakey.bd0668ebae3d7fe4c479.jpg",
+    "index.html": "/family_website/index.html",
+    "main.93717f1e.css.map": "/family_website/static/css/main.93717f1e.css.map",
+    "main.38600197.js.map": "/family_website/static/js/main.38600197.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93717f1e.css",
+    "static/js/main.38600197.js"
+  ]
+}
